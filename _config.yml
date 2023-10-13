@@ -1,14 +1,14 @@
 
 # Setup
 title:               PrebidLab
-email:               example@gmail.com
-tagline:             Free Jekyll theme made for developers
+email:               rapidcodelab.mx@gmail.com
+tagline:             Opensource header bidding server side solution
 url:                 "https://prebidlab.online" # insert your site's URL
 baseurl:             ""
 
 # About/contact
 author: # you can edit these to be your personal details
-  name:              Xiaoying Riley
+  name:              Pavel Sanikovich
   url:               https://twitter.com/3rdwave_themes
   email:
 
@@ -22,17 +22,17 @@ google_tag_manager:
 bing_verification:
 
 # Social
-github_username: thundergolfer
-twitter_username: 3rdwave_themes
-instagram_username: kevin/
-facebook: 3rdwavethemes/
-linkedin_username: xiaoying
-dribbble_username: Xiaoying
+github_username: 
+twitter_username: 
+instagram_username: 
+facebook: 
+linkedin_username: 
+dribbble_username: 
 
 # Custom vars
 version:             1.0.1
 github:
-  repo:              https://github.com/kevit/devaid-jekyll-theme
+  repo:              
 
 # Gems - Dependencies for this theme
 gems:
