@@ -58,7 +58,3 @@ widgets:
   - title: Contact
     url: contact
     archor: true
-  - title: Blog
-    url: blog
-  - title: Page
-    url: page
